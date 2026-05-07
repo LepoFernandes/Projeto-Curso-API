@@ -1,0 +1,23 @@
+2026-05-07 11:13:30 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-07 11:14:01 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-07 11:14:05 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-07 11:14:07 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-07 11:14:07 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-07 11:14:25 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-07 11:14:25 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-07 11:14:37 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-07 11:14:37 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-07 11:15:20 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-07 11:15:20 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-07 11:15:26 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-07 11:15:26 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-07 11:15:33 - [31merror[39m : [31mConnection failure[39m
+2026-05-07 11:15:33 - [31merror[39m : [31mError: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.kbb8ety.mongodb.net[39m
+2026-05-07 11:15:33 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-07 11:15:46 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-07 11:15:46 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-07 11:16:00 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-07 11:16:00 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-07 11:16:05 - [31merror[39m : [31mConnection failure[39m
+2026-05-07 11:16:11 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-07 11:16:11 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
