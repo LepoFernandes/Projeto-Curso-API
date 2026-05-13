@@ -97,3 +97,117 @@
 [35m[39m
 2026-05-11 11:30:11 - [35mhttp[39m : [35mPOST /api/movie 201 387 - 44.364 ms[39m
 [35m[39m
+2026-05-12 21:11:58 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:11:58 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:12:31 - [35mhttp[39m : [35mPOST /api/movie 201 177 - 152.514 ms[39m
+[35m[39m
+2026-05-12 21:19:22 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:19:22 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:19:44 - [35mhttp[39m : [35mPOST /api/movie 422 48 - 4.106 ms[39m
+[35m[39m
+2026-05-12 21:20:18 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:20:18 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:20:23 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:20:23 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:20:27 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:20:27 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:20:32 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:20:32 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:20:35 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:20:35 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:20:37 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:20:37 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:20:41 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:20:41 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:20:47 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:20:47 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:20:49 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:20:49 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:21:11 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:21:11 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:21:28 - [35mhttp[39m : [35mPOST /api/movie 422 70 - 5.295 ms[39m
+[35m[39m
+2026-05-12 21:21:48 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:21:48 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:21:54 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:21:54 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:21:57 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:21:57 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:22:00 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:22:00 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:22:27 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:22:27 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:22:35 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:22:35 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:22:40 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:22:40 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:23:01 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:23:01 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:23:03 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:23:03 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:23:43 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:23:43 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:23:55 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:23:55 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:24:11 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:24:11 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:24:34 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:24:34 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:24:39 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:24:39 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:24:45 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:24:45 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:25:03 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:25:03 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:25:08 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:25:08 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:25:12 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:25:12 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:25:28 - [35mhttp[39m : [35mPOST /api/movie 422 59 - 6.581 ms[39m
+[35m[39m
+2026-05-12 21:25:32 - [35mhttp[39m : [35mPOST /api/movie 201 147 - 58.035 ms[39m
+[35m[39m
+2026-05-12 21:26:17 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:26:17 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:26:28 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:26:28 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:26:36 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:26:36 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:27:31 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:27:31 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:27:36 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:27:36 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:27:40 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:27:40 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:27:46 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:27:46 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:27:50 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:27:50 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:27:55 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:27:55 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:28:24 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:28:24 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:28:27 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:28:27 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:28:32 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:28:32 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:28:41 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:28:41 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:28:43 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:28:43 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:29:14 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:29:14 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:29:16 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:29:16 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:29:21 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:29:21 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:29:31 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:29:31 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:29:43 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:29:43 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:30:12 - [32minfo[39m : [32mConnection sucess[39m
+2026-05-12 21:30:12 - [32minfo[39m : [32mAplicacao funcionando na porta: 3000[39m
+2026-05-12 21:34:38 - [35mhttp[39m : [35mPOST /api/movie 201 275 - 63.321 ms[39m
+[35m[39m
+2026-05-12 21:34:54 - [35mhttp[39m : [35mPOST /api/movie 201 276 - 41.940 ms[39m
+[35m[39m
